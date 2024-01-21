@@ -51,4 +51,4 @@ The dataset used for this project is obtained from Kaggle. It contains informati
 
 This project is licensed under the [MIT License](LICENSE).
 
-Happy coding!
+Thank you for viewing!! <33
