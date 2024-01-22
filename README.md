@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict house prices in California using machine learning techniques, specifically linear regression. The dataset used for this project is sourced from Kaggle and focuses on various features such as longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, and ocean proximity.
+This project aims to predict house prices in California using machine learning techniques, specifically linear regression. The 1990s dataset used for this project is sourced from Kaggle and focuses on various features such as longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, and ocean proximity.
 
 ## Key Features and Techniques
 
